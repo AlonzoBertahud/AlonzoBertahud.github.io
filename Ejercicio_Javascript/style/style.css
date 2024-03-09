@@ -1,0 +1,11 @@
+.imagen{
+    width: 20%;
+    height: auto;
+}
+#album{
+    margin-top: 3rem;
+    margin-left: 2rem;
+}
+body{
+    background-color: rgb(182, 40, 40);
+}
